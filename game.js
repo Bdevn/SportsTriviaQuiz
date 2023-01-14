@@ -112,3 +112,4 @@ incrementScore = (num) => {
     scoreText.innerText = score;
 };
 
+window.location.assign('https://bdevn.github.io/SportsTriviaQuiz/game.html');
