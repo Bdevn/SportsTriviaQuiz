@@ -1,2 +1,3 @@
-# SportsTriviaQuiz
- A short quiz to test your knowledge of various sports trivia.
+# CartoonQuiz
+# 
+ Cartoon  Quiz is a short multi-choice quiz on the subject of cartoon and animation trivia
