@@ -28,7 +28,7 @@ saveHighScore = (e) => {
 };
 
 // User mouse click initiates popup info
-function myFunction() {
+function infoPopup() {
     var popup = document.getElementById("infoPopup");
     popup.classList.toggle("show");
   }
