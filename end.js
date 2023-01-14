@@ -27,5 +27,11 @@ saveHighScore = (e) => {
     localStorage.setItem('highScores', JSON.stringify(highScores));
 };
 
+// User mouse click initiates popup info
+function myFunction() {
+    var popup = document.getElementById("infoPopup");
+    popup.classList.toggle("show");
+  }
+
 window.location.assign('https://bdevn.github.io/SportsTriviaQuiz/end.html');
 
